@@ -1,0 +1,1604 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eugenia, or, An elegy upon the death of the honourable Madam--</title>
+            <author>Morgan, Matthew, 1652-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51365</idno>
+            <idno type="STC">Wing M2734</idno>
+            <idno type="STC">ESTC R28833</idno>
+            <idno type="EEBO-CITATION">10767616</idno>
+            <idno type="OCLC">ocm 10767616</idno>
+            <idno type="VID">45746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eugenia, or, An elegy upon the death of the honourable Madam--</title>
+                  <author>Morgan, Matthew, 1652-1703.</author>
+               </titleStmt>
+               <extent>[9], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" signed : Mat. Morgan.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45746:1"/>
+            <p>Eugenia: OR, AN ELEGY UPON The DEATH of the HONOURABLE Madam —.</p>
+            <q>
+               <lg>
+                  <l>Quis deſiderio ſit pudor aut modus</l>
+                  <l>Tam Chari Capitis? praecipe lugubres</l>
+                  <l>Cantus, <hi>Melpomene,</hi> cui liquidam Pater</l>
+                  <l>Vocem cum cithara dedit.</l>
+               </lg>
+               <lg>
+                  <l>—Utinam modo dicere poſſem</l>
+                  <l>Carmina digna Dea, certe eſt Dea carmi<g ref="char:EOLhyphen"/>na digna.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> MDCXCIV.</p>
+         </div>
+         <div type="bookplate">
+            <pb facs="tcp:45746:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>ROBERT: DAVIES of Lannerch Denbighshire.</head>
+                  <figDesc>bookplate</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45746:2"/>
+            <head>TO Lycophron.</head>
+            <p>
+               <hi>I</hi> Receiv'd a Letter from the beſt of Men, inrich'd with all thoſe Strains of Civility and Goodneſs, which are ſo natu<g ref="char:EOLhyphen"/>ral to him: There was one thing in it, which I could not at firſt diſtinguiſh, whether it was a Complement, or a Re<g ref="char:EOLhyphen"/>proach; when, with ſo ſerious an Air, you Congratulate my late Repulſe; You ſeem to be as glad, as if I was ſav'd from Ship-wrack, or retriev'd from a Precipice. I have another Inge<g ref="char:EOLhyphen"/>nuous, Gentile Friend in the World, who can bear witneſs how Cold and Reſerv'd I was in that Matter, and what ſlender En<g ref="char:EOLhyphen"/>couragement I gave to thoſe Advances, which were afterwards made in my behalf: I muſt needs ſay, I weighed every Conſequence to a Grain, &amp; eaſily foreſaw, what Childiſh &amp; Revengeful Hands I was falling into; who only waited for ſuch a luſcious Opportunity, that they might Grin, and ſhew the foulneſs and rancour of their Teeth for my laſt Poem: Did their ill Humour only terminate in my ſelf, it would require but little Stoiciſm to digeſt it, and I could throw it off with a great Indifference; for it is but only paſſing by, and diſ<g ref="char:EOLhyphen"/>regarding theſe little Creatures, and their Clamours are quickly ſi<g ref="char:EOLhyphen"/>lenced: But when they are ſapping the Foundation of our Reli<g ref="char:EOLhyphen"/>gion, and <hi>Engliſh</hi> Liberty,
+<q>—Quis tam ferreus ut teneat ſe?</q> This would unloſſe Dumbneſs it ſelf into an Exclamation, when he ſees his Country going to be Deſtroy'd.</p>
+            <p>Theſe were the Men, who, in the Two laſt Reigns, were made the wretched Inſtruments to bring in Tyranny, and Superſtition upon
+<pb facs="tcp:45746:3"/>us in a full Torrent, and Impunity hath harden'd their Fore-heads to nibble at the ſame Attempts in this: Indeed they were like <hi>Puppets</hi> manag'd upon a Wire by the Craft and Fineſs of the Je<g ref="char:EOLhyphen"/>ſuites, a Race of Men ſprung up in the World to extinguiſh all that is Juſt, Honeſt, or Merciful in it; So that the Character, which wiſe <hi>Tacitus</hi> gives of one of the <hi>Roman</hi> Emperours, exactly Quadrates with them: He ſaith that he was <hi>Natura factus, &amp; conſuetudine exercitus, velare odium fallacibus blanditiis:</hi> So theſe are fram'd by Nature, and train'd up by Cuſtome, to diſſem<g ref="char:EOLhyphen"/>ble their Hatred with falſe Careſſes. It was by theſe <hi>Cajole<g ref="char:EOLhyphen"/>ries,</hi> which any, but themſelves, might have ſeen thro'; the Cheat was ſo Tranſparent, that they were wrought upon to give up the vital Priviledges of their City without the leaſt Regret; and ſo not only Enſlav'd themſelves, but Betray'd their Poſterity too, for which they were only Guardians, and Truſtees, and that with the Breach of the moſt Solemn Oath that ever was Adminiſter'd. And here I think it a juſt Opportunity to record an Action of one, who was nearly related to me; Who tho' the Rites of a Father's Funeral were to be performed that very day, Yet he left the Body Dead upon the Table, and went in his Mourning (a very proper Habit even upon that Occaſion too) to Aſſert his native City in its laſt Agonies, and gave his Vote againſt the Surrender: This was ſuch an In<g ref="char:EOLhyphen"/>ſtance of honeſt Gallantry in our Family, that it may ſerve to Ex<g ref="char:EOLhyphen"/>piate for all the Miſ-fortunes which have ſince befallen it; and yet theſe Deſigns are farded over with very ſpecious Pretences, and as an illiterate Perſon prefer'd to an Office, doth his Name, ſo they Stamp the Church upon every thing that comes under their Hands, but ſhe doth not ſtand in need of ſuch Defenders; 'Tis not the Vollies of their Oaths, nor the Noiſe of their profane Healths, that, like a Tempeſt, muſt root Her the faſter: And I think it extreamly hard that the beſt Conſtituted, and moſt equally pois'd Govern<g ref="char:EOLhyphen"/>ment upon the Face of the Earth, ſhould be undermin'd by every turbulent Pretender, and rail'd at by every ſawcy Mechanick: But their Ignorance is an Antidote againſt their Malice, and the File will be too hard for their Teeth, let them be never ſo Venemous.</p>
+            <p>
+               <pb facs="tcp:45746:3"/>There is one thing (my <hi>Lycophron</hi>) would kindle Reſentment even in the moſt ſedate Temper, to ſee a bold Fellow mount the Pulpit, and there Deſecrate, and Profane that ſolemn Place, by almoſt down-right Ribaldry againſt the Government; where, with<g ref="char:EOLhyphen"/>out any regard to Senſe, Civility, or good Manners, he Vomits up his ill-bred Choller, manfully Encounters with his own Shadow, and makes Paſſes at the Air; Whilſt the Audience are Tortur'd upon the Rack, and are in Pain for him, when he hath not one Bluſh of Modeſty to be aſham'd for himſelf: He ſeems to be a Compound made up of Braſs and Lead, which <hi>Aldrovandus</hi> tells us was a Mettal once found in the Mines of <hi>Germany,</hi> all Effrontery and Dulneſs; He is an Ordeal Plough-ſhare Red-hot, or rather a Rocket-Candle, which ſputters out a ridiculous Fire for a time, and then goes out with a Crack, and proves Offenſive to the whole Com<g ref="char:EOLhyphen"/>pany: Indeed an Embargo ſhould be laid upon his Text, and be ſtrictly examin'd, whether Contraband-Divinity doth not lye un<g ref="char:EOLhyphen"/>der it, for a Bible and a Sword are equally dangerous in the Hands of ſuch Men. I have often applied a Story to them in my Thoughts, which I have ſomewhere read in a <hi>Phyſician;</hi> He relates that the Heir of an Honourable Family made his Addreſſes to a Young Lady, which ſhe anſwer'd with a mutual Complaiſance; there was no Ex<g ref="char:EOLhyphen"/>ception to his Perſon, for it was very Inviting, there was a plentiful Eſtate, and a firm Conſent on both Sides: But it ſeems the unhappy Gentleman had formerly been bit by a Dog, which he did not then apprehend to be Mad; and Books tell you amazing Stories of thoſe, who are ſo aſſaulted, that they have been almoſt chang'd into the Nature of thoſe Creatures, which have ſo infected them, that they will Lap, Foam, and Bark like them; So here the poyſonous Ferment, which had lain ſo long Dormant in his Blood, took this fatal Occaſion to exert it ſelf; For upon his Wedding-Night, he made moſt dreadful Howlings, and with a Violence ſo ſudden, that it admitted no reſcue, he tore the poor Bride to pieces: So theſe fu<g ref="char:EOLhyphen"/>rious Bigots devour the Church, they make Court to, and pour out their precious Balms, only in order to her Funeral.</p>
+            <p>I believe <hi>(Lycophron)</hi> you Concur with all thoſe, who love the
+<pb facs="tcp:45746:4"/>Proſperity of <hi>England,</hi> in wiſhing a Fortunate and Glorious De<g ref="char:EOLhyphen"/>ſcent upon <hi>France;</hi> and that our Great <hi>Scipio</hi> would Tranſport the War to the Walls of the Modern <hi>Carthage,</hi> which is as Cruel, and Perfidious, as the Old; and the Gallick is as falſe as the Punick Faith: We will then be a Convulſion in their Bowels, and Tear them worſe than the Earthquake did <hi>Sicily.</hi> Our <hi>Engliſh</hi> Sto<g ref="char:EOLhyphen"/>machs will never be Satisfy'd, till they have ſwallow'd thoſe Muſh<g ref="char:EOLhyphen"/>rooms, as <hi>Aelian</hi> tells us, in his <hi>Natural Hiſtory,</hi> That a ſick Lyon can't be recover'd, till he hath eaten an Ape. There is one thing you cannot but obſerve, which runs with a very popular Train, That ſome People are very liberal of their Invectives againſt the <hi>Dutch,</hi> when take them on every Side of the Proſpect, they are uſeful Neighbours, and a ſeaſonable Allie; the Proofs they have given of their Courage, in Vindicating their Liberty againſt <hi>Spain,</hi> with the Heroes of <hi>Naſſau</hi> at the Head of them, are not to be par<g ref="char:EOLhyphen"/>allel'd in Hiſtory: And as for Learning, the Church of <hi>Rome,</hi> as diffuſive as it is, never equal'd them; <hi>Petau,</hi> tho' a Nervous Writer, never came up to <hi>Grotius; Bidderman,</hi> a delicious Poet, is diſtanc'd by <hi>Daniel,</hi> and <hi>Nicolas Heinſius;</hi> and all the Doctors of the <hi>Sorbon,</hi> and Jeſuits of the <hi>Minerve,</hi> did never reach either <hi>Voſſius,</hi> Father or Son: As for a Climate we ſhould ceaſe to Ri<g ref="char:EOLhyphen"/>dicule that, unleſs we had a better of our own, where we have not Sun enough to ripen any generous Fruit; And I heard a ſmart <hi>Italian</hi> once ſay, <hi>Il mezzo dell' anno fra voi Ingleſi e ſpaven<g ref="char:EOLhyphen"/>tole boraſca &amp; l' altro mezzo e invierno,</hi> Half of your Engliſh Year is terrible Wind and Rain; and the other half is Winter. Some Men are very apt to charge others with Ingratitude, when they are enormouſly Guilty of it themſelves, and that accompany'd with Stupidity too; For though they were reliev'd with Manna in the Wilderneſs, yet they ſtill long for the Darkneſs and Slavery of <hi>Egypt:</hi> Theſe, tho' Maſters of ſo much Knowledge, yet were ſo Senſleſs as to worſhip the Leeks and Oynions in their Gardens; and we have ſome who can match them in that Point of their Idolatry too: For as they ſwallow'd their Deities in a Salade, ſo the Papiſts chew down their God in a Wafer. If they ſhould ever bring the
+<pb facs="tcp:45746:4"/>
+               <hi>French</hi> in upon us (but I hope Heaven and Earth, and the Stars in their Courſes will fight againſt them) we ſhall be all ſhut up in one common Dungeon together; and then we ſhall have nothing left to do, but to Revile, and ſhake our Chains one at another; or if there is any Civility remaining, it will be like that which paſs'd between Two <hi>French</hi> Porters at the going through a Gate: They had both heavy Burthens upon their Necks, but were reſolv'd to ſtoop down lower with a Complement; and the Seene of nice Beha<g ref="char:EOLhyphen"/>viour between theſe well-bred Gentlemen was after this manner, <hi>C'eſt à vous, pardonnez moy, C'eſt à vous, paſſez;</hi> Which I will take the liberty thus to Tranſlate; The Preheminence of place belongs to You, Noble Sir; To whom the other ſubmiſſively Re<g ref="char:EOLhyphen"/>parteed, I moſt humbly beg your Pardon, and kiſs your Hands, it is more ſtrictly your due as the Elder Slave, therefore move on without any more Ceremony. I would make an Apology to any one but your ſelf for this Poem, but you can Witneſs how long it hath lain by me, and by what Importunities it is at laſt Sollicited out of that Retirement: Beſides, I am certain, you will be pleaſed with any thing that contributes to my Recreation; For you know I only uſe Poetry as a Relaxation from ſeverer Studies: and as I diſturb no Man's Diverſion, ſo I deſire the fair Liberty to be allowed mine. I muſt confeſs, when I am ſtuck faſt in an Antiquary, have loſt my way in a dark Author, and made my Head Ake with Polemical Gladiators; I then refreſh my wearied Spirits with more brisk and lively Meditations; that is, I walk up an Hill to throw off ſo much Phlegm and Indigeſtion. There is a Notion obtains amongſt ſome Weak People, that if a Man is not at the Anvil, or the Ham<g ref="char:EOLhyphen"/>mer, that he is Lazy and <g ref="char:V">Ʋ</g>n-employ'd: They can form no Idea of the Fatigues of the Mind, what a Labour 'tis to lay down Propoſitions, and draw true Inferences from them, to reconcile the repugnancy of Authors, and rightly to underſtand the Meaning and Cuſtomes of the Ancients: But I will for the future Abridge my ſelf of this Pleaſure too, leaſt what is Innocent at firſt, by too much Indulgence, may become an ill habit, and the Diſtemper grow<g ref="char:EOLhyphen"/>ing Chronical, I ſhall relapſe into Rhiming every Spring and Fall.
+<pb facs="tcp:45746:5"/>You will find in one place, that I have Tranſlated a piece of <hi>Taſſo,</hi> Compos'd in that ſort of meaſure, which they call their <hi>Octaves;</hi> and which the <hi>Italians</hi> extreamly delight in, beyond their <hi>Ter<g ref="char:EOLhyphen"/>zetti, Sciolti</hi> and <hi>Sdruccioli,</hi> a ſort of Verſes which you are well acquainted with: Mine is but a rude Eſſay, and it is only fit for the Sublime Genius of Mr. <hi>Dryden,</hi> to imitate and purſue to an Ex<g ref="char:EOLhyphen"/>cellence.</p>
+            <p>And now <hi>(Lycophron, Dulciſſime rerum)</hi> I muſt be farther re<g ref="char:EOLhyphen"/>mov'd from You, almoſt out of the Commerce of the World, at leaſt the <hi>Beau Monde;</hi> I ſhall now more than ever Lament the loſs of your Polite, and Obliging Converſation, when I am depriv'd of One who was ſo Judicious in his Remarks, and Candid in his Cenſures; and whom I never ſaw the leaſt Paſſion to diſ-compoſe: I never obſer<g ref="char:EOLhyphen"/>ved him <g ref="char:V">Ʋ</g>neaſy, but when the Calamities of Mankind made him ſo, and then a generous Pity touch'd him, and he Languiſh'd, when others were in Diſtreſs: He had always a ſerene Countenance, and chearful Spirit, and an attracting Gayety diſplaying it ſelf in all his Diſcourſes: His Raillery was very Juſt and In-offenſive, and only had due Picquancy, which is the reliſh of the Fruit; but when any Points of Learning came before him, no Difficulty was too hard for his Solution. Then like another <hi>Xerxes</hi> he cut through Mount <hi>Athos</hi> to make a paſſage for his Eloquence to flow; and he level'd the harſh and irregular Soil into a ſmooth and equal Surface: His Reaſon was Free and <g ref="char:V">Ʋ</g>nconfin'd, not fetter'd by the Barbarous Terms of the Schools; and his Rhetorick ſtream'd from him with a gentile Eaſineſs, without the leaſt Affectation. Indeed always Profit and Delight were derived from his Mouth, as if the Swarm of Bees which pitch'd upon St. <hi>Ambroſe</hi>'s Face, had lighted upon his too, and Sweetneſs hath diſtill'd from his Lips ever ſince, with a Source never to be exhauſted. There is One thing Particular in our Friendſhip, That it hath hitherto ſhin'd without a Cloud, and there hath not been the leaſt Pique or Diſguſt to over-caſt it; if any thing had been capable to give it Diſturbance, I fancy it would be like the Well mention'd by <hi>Pliny,</hi> which if any Dirt was thrown into it, it would Rage and grow Impetuous, till it had cleared it
+<pb facs="tcp:45746:5"/>ſelf from the impure Mixture, and recover'd its limpid Beauty again: And as it firſt roſe with a Luſtre, ſo in this Decline of our Years, let it go down ſo too; but if Providence ordains, that I muſt never ſee that Face again, which is the ſeat of Modeſty, Courteſy and good Nature, yet let your Correſpondence reach me, though at this diſtance: A Letter from you, like one fix'd to an Arrow, and ſhot into a Beſieged Town, will flatter me with ſome hopes that Succours are approaching. Though I am Buried to all the World beſides, yet let me live in the Thoughts of <hi>Lycophron,</hi> and find a ſhelter in that Breaſt, whereon I have ſo often taken de<g ref="char:EOLhyphen"/>light to lay my Head: As Dying <hi>Auguſtus</hi> to his <hi>Livia,</hi> Let me enjoyn You to cheriſh the Remembrance of our former Endear<g ref="char:EOLhyphen"/>ments, and conſtantly to believe, That <hi>Lycophron</hi> was Lov'd with the ſtrongeſt and moſt Sincere Paſſion that ever Heart was capable of, By</p>
+            <closer>
+               <signed>His moſt Faithful, and, Affectionate Servant, MAT. MORGAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:45746:6"/>
+            <pb n="1" facs="tcp:45746:6"/>
+            <head>AN ELEGY Upon the DEATH of the Honourable Madam —</head>
+            <lg>
+               <l>THE feather'd Race had left their downy Neſt,</l>
+               <l>
+                  <hi>Aurora,</hi> like a Bride was early Dreſt;</l>
+               <l>Gayly Attir'd, in all her Nuptial Beams,</l>
+               <l>Her Dawn had chas'd away deluding Dreams;</l>
+               <l>Fancy too faithfully Records doth keep,</l>
+               <l>Doubly diſturbs us, waking and aſleep;</l>
+               <l>Falſe Lights the Traveller no longer tire,</l>
+               <l>Led in a Round by a phantaſtick Fire:</l>
+               <l>Now <hi>Melibaeus</hi> did his Flocks unfold,</l>
+               <l>And the day broke thro' Portals made of Gold,</l>
+               <l>Which Nature had mixt up with vivid Blew,</l>
+               <l>And his ſtrong Beams exhal'd the Pearls of Dew;</l>
+               <l>Now the <hi>Bolognian</hi> Stone imbibing Light,</l>
+               <l>Impregnated with Luſtre ſcatter'd Night;</l>
+               <l>It was upon this moſt delicious Morn,</l>
+               <l>When all things the Creation did adorn,</l>
+               <l>That <hi>Damon</hi> to an Eminence did repair,</l>
+               <l>There to ſuck in refreſhing Gales of Air;</l>
+               <l>A Double benefit we by Walking find,</l>
+               <l>It doth dilate our Lungs, but more our Mind;</l>
+               <l>
+                  <pb n="21" facs="tcp:45746:7"/>Unactive into Lethargies we ſink,</l>
+               <l>But there without Conſtraint we Breath and Think;</l>
+               <l>His Eyes did various Objects here purſue,</l>
+               <l>And ſomething ſhew'd peculiar to his View;</l>
+               <l>Below a Precipice there flows a Tide,</l>
+               <l>Whoſe narrow Water doth Two Shores divide,</l>
+               <l>Juſt makes a Paſſage for it ſelf to Glide;</l>
+               <l>Yet this thick Lake tranſports the Merchant's wealth,</l>
+               <l>Below is Riches, and above is Health;</l>
+               <l>Here lofty Rocks before the Deluge ſtood,</l>
+               <l>A ſtately Guard to ſuch an homely Flood;</l>
+               <l>And the hard Stones are cloath'd with verdant wood:</l>
+               <l>And here they had their Primitive abode,</l>
+               <l>The breaking of the <hi>Vortex</hi> we Explode;</l>
+               <l>Small Trees ſprought up unto the waters nigh,</l>
+               <l>But Oaks do grow upon the Mountains high,</l>
+               <l>As if they from the Ocean did fly;</l>
+               <l>In vain it ſelf the cautious Timber ſaves,</l>
+               <l>It muſt be preſt for Battles on the waves;</l>
+               <l>Diverting Lawns do both the Summets Crown,</l>
+               <l>For on each Top there is a lovely Down;</l>
+               <l>Here you enjoy a free and open Sky,</l>
+               <l>And underneath do ſhining Pebbles ly;</l>
+               <l>Falſe and Tranſparent as an Hypocrite,</l>
+               <l>Or like a Fop that glitters to your ſight,</l>
+               <l>But with intrinſick Value is not Bright;</l>
+               <l>With precious Gems the Eaſtern Country Teems,</l>
+               <l>Aſſiſted by the Sun's prolifick Beams;</l>
+               <l>Our Climate doth depreciate their worth,</l>
+               <l>It hath not ſtrength to bring a Jewel forth;</l>
+               <l>In an harſh Soil Nature like <hi>Mandrakes</hi> groans,</l>
+               <l>And is deliver'd of abortive Stones.</l>
+               <l>There runs along the Valiant <hi>Britains</hi> Coaſt,</l>
+               <l>Which haughtily <hi>Plinlimmon</hi>'s Hills doth boaſt;</l>
+               <l>
+                  <pb n="3" facs="tcp:45746:7"/>The <hi>Severn</hi> there doth riſe, it is ſo high,</l>
+               <l>The River ſeems Extracted from the Sky;</l>
+               <l>But what exalts your Admiration moſt,</l>
+               <l>Here you grow well with very little Coſt;</l>
+               <l>A Soveraign water thro' a Spout doth flow,</l>
+               <l>Which Nature, like her Treaſures, hath plac'd low;</l>
+               <l>With Pain to things of Value we arrive,</l>
+               <l>We climb for <hi>Cocoes,</hi> and for Pearls we dive;</l>
+               <l>'Tis of a Temper betwixt hot and cool,</l>
+               <l>As Sanative as was <hi>Betheſda</hi>'s Pool;</l>
+               <l>Inveterate Ulcers here dry'd up are ſeen,</l>
+               <l>
+                  <hi>Gehaſi</hi>'s Leproſy might here be Clean;</l>
+               <l>Concretions of Gravel it doth waſt,</l>
+               <l>Strong in Effect, but ſoft unto the Taſt;</l>
+               <l>It for the <hi>Diabetes</hi> doth provide,</l>
+               <l>And ſtops that Current with a Counter-tide;</l>
+               <l>So in the narrow Streights of <hi>Gibraltar,</hi>
+               </l>
+               <l>Which both from <hi>Spain</hi> and <hi>Africk</hi> is not far,</l>
+               <l>The waters flow out of a mighty Urn,</l>
+               <l>Thoſe Iſſues under the ſame Sea return;</l>
+               <l>For a <hi>Sub-aqueous</hi> paſſage they obtain,</l>
+               <l>The Plummet turns, and they creep back again:</l>
+               <l>And now they're carrying on a brave Deſign,</l>
+               <l>The rugged Scituation to refine;</l>
+               <l>To raiſe the Stream, and to retrieve its Heat</l>
+               <l>Like the Projector's Humour, wiſe and great;</l>
+               <l>Nature her obvious Largeſſes doth deal,</l>
+               <l>Her Fountains quench, her Mineral-waters heal:</l>
+               <l>This doth a Confluence of People draw,</l>
+               <l>It we may juſtly call the <hi>Briſtol</hi> Spaw;</l>
+               <l>Here the delicious hand of skilful <hi>White,</hi>
+               </l>
+               <l>Who with <hi>Taille Douce</hi> doth all the world delight,</l>
+               <l>Should with his niceſt Touch deſcribe its ſite;</l>
+               <l>A coarſe Engraver rudely doth diſgrace,</l>
+               <l>With his harſh Stroaks ſo Beautiful a place;</l>
+               <l>
+                  <pb n="4" facs="tcp:45746:8"/>That Art and Verſe are both beyond his ken,</l>
+               <l>One can't tell which is duller, Tool or Pen;</l>
+               <l>Of Converſation would engroſs the Senſe,</l>
+               <l>A Man of voluble Impertinence;</l>
+               <l>Tho' he talks on at ſuch a furious rate,</l>
+               <l>'Tis harder to Perform than 'tis to Prate:</l>
+               <l>'Tis only you the brighter Powers above,</l>
+               <l>Know how ſincerely I that City love;</l>
+               <l>For only you are conſcious to thoſe Sighs,</l>
+               <l>Which thick and frequent unto Heaven do riſe;</l>
+               <l>When their Calamities do make me ſmart,</l>
+               <l>And what they ſuffer, wounds me to the Heart:</l>
+               <l>But when indulgent Fortune proves more ſoft,</l>
+               <l>The Scale that is depreſt doth mount aloft;</l>
+               <l>Then their Proſperity brings me Relief,</l>
+               <l>The Joy doth equal then my former Grief;</l>
+               <l>You a freſh ſuppliant I again invoke,</l>
+               <l>And with new Incenſe let your Altars ſmoak;</l>
+               <l>Let there a Guardian-Angel always be,</l>
+               <l>To mitigate the Tempeſts of the Sea;</l>
+               <l>That they of proſperous Gales may never fail,</l>
+               <l>Let a full Trafick always fill the ſail;</l>
+               <l>Of mutual Love let them the influence feel,</l>
+               <l>Their Feudes let a Balſamick Temper heal;</l>
+               <l>Let Charity like to their Wealth increaſe,</l>
+               <l>And what all other Joys conſummates, Peace;</l>
+               <l>This Living is my paſſionate Deſire,</l>
+               <l>And with theſe fervent Wiſhes would Expire.</l>
+               <l>Whilſt this bright Landskip <hi>Damon</hi>'s Thoughts delight,</l>
+               <l>An ancient Object did arreſt his ſight;</l>
+               <l>This quicken'd with freſh ſpeed his joyful Feet,</l>
+               <l>He haſtily advanc'd his Friend to meet,</l>
+               <l>And with this courteous Language him did greet.</l>
+            </lg>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>I of this happy Meeting now am proud,</l>
+                  <l>But a falſe Lover may my <hi>Alcon</hi> ſhroud;</l>
+                  <l>
+                     <pb n="5" facs="tcp:45746:8"/>When from afflicted me he did withdraw,</l>
+                  <l>The Face I ſo much lov'd, I never ſaw;</l>
+                  <l>You on a Journey upwards then was bent,</l>
+                  <l>And ſince you have not a kind Meſſage ſent;</l>
+                  <l>Tho' we from thence do never foot-ſteps trace,</l>
+                  <l>Yet by a Patent of peculiar Grace,</l>
+                  <l>You're come to tell the Wonders of the Place;</l>
+                  <l>So that a Patriarch's Bleſſing I do gain,</l>
+                  <l>I both a Friend and Angel entertain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>
+                     <hi>Damon,</hi> I would be rightly underſtood,</l>
+                  <l>I ſtill am <hi>Alcon,</hi> real Fleſh and Blood.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>I know 'tis not Civility to look,</l>
+                  <l>On what you Read, nor pry into a Book;</l>
+                  <l>But you I am ſure will anſwer the Demand,</l>
+                  <l>What is't you hold in your Obliging Hand?</l>
+                  <l>Which ſuch a dazling Ornament receives</l>
+                  <l>From Marble Colours, and from Gilded Leaves.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>It is a Poem, reeking from the Mint,</l>
+                  <l>Which a great Perſonage Celebrates in Print;</l>
+                  <l>Two Things in me did raiſe a curious Flame,</l>
+                  <l>The Greatneſs of the Task and Author's Fame;</l>
+                  <l>For a juſt Praiſe here is a mighty Theme,</l>
+                  <l>He ſtill hath mine, as once the World's Eſteem;</l>
+                  <l>The Nation did his Genius extol,</l>
+                  <l>He rid in Triumph to the Capitol;</l>
+                  <l>Over Words obſolete a Conqueſt gains,</l>
+                  <l>And Barbarous Language Captive led in Chains;</l>
+                  <l>Nay, <hi>France</hi> and <hi>Italy</hi> he did Subdue,</l>
+                  <l>And forc'd them to an Homage that was Due;</l>
+                  <l>He made them all their Contributions bring,</l>
+                  <l>To Form thoſe Lines this ancient Bard did Sing;</l>
+                  <l>Our <hi>Engliſh</hi> Tongue He doubly did Refine,</l>
+                  <l>When in a proper Sphere this Star did ſhine;</l>
+                  <l>Support his Laurels, which begin to fade,</l>
+                  <l>He was not Born to be Condemn'd to Shade;</l>
+                  <l>
+                     <pb n="6" facs="tcp:45746:9"/>A publick Fund ſhould furniſh his Expence,</l>
+                  <l>
+                     <hi>Not live a Rent Charge upon Providence;</hi>
+                  </l>
+                  <l>Our Enemies as a Reproach may vaunt,</l>
+                  <l>That <hi>England</hi> ſuffer'd ſuch a Pen to want;</l>
+                  <l>Tho' a Deſerter from our Church He ran,</l>
+                  <l>Pity his Errors, but Admire the Man;</l>
+                  <l>Conſider that we had him in the Prime,</l>
+                  <l>In his Aſcendant of delicious Rhime,</l>
+                  <l>When Honey was extracted from his Thyme.</l>
+                  <l>His Meaſures did with Light and Vigour run,</l>
+                  <l>We had his Riſing, <hi>Rome</hi> his Setting-Sun;</l>
+                  <l>Blood in our Age grows Vappid and Auſtere,</l>
+                  <l>And then he paſt the <hi>Alps</hi> with Vinegar;</l>
+                  <l>But our Fair <hi>Albion</hi> did his Youth delight,</l>
+                  <l>Whoſe Shore is ſafe, and all her Rocks are white.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>That Lady all <hi>Parnaſſus</hi> might Command,</l>
+                  <l>And Incenſe ſhe deſerv'd from every Hand;</l>
+                  <l>The Native matter doth exceed all Coſt,</l>
+                  <l>On rich Materials the Painting's loſt;</l>
+                  <l>You don't Leaf-Gold on Orient Jewels lay,</l>
+                  <l>Nor dawb fine <hi>Parcclane</hi> with common Clay;</l>
+                  <l>Encomiums on her unforc'd did flow,</l>
+                  <l>Chaplets of Roſes every one did throw;</l>
+                  <l>With ſuitable Preſents did the Subject treat,</l>
+                  <l>Like her Looks, florid, as her Manners, ſweet.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Another <hi>Heroine</hi> (my <hi>Damon</hi>) Dy'd</l>
+                  <l>In Blood, but yet in Vertue more ally'd;</l>
+                  <l>We the <hi>Ledaean</hi> Stars will now diſplace,</l>
+                  <l>And theſe Two Siſters ſhall the Heavens grace;</l>
+                  <l>Now in one Orb this moſt Illuſtrious Pair,</l>
+                  <l>Shall with an Aſpect radiate more fair,</l>
+                  <l>Then <hi>Ariadne</hi>'s Crown, or <hi>Berenice</hi>'s Hair.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Slight words with vaſt Reſentments do not ſuit,</l>
+                  <l>Th'importance of the Sorrow ſtuck us mute.</l>
+                  <l>
+                     <pb n="7" facs="tcp:45746:9"/>Once an <hi>Aſſaſſin</hi> with a Barbarous will,</l>
+                  <l>The <hi>Lydian</hi> Monarch did attempt to kill;</l>
+                  <l>But filial Pity to prevent the Blow,</l>
+                  <l>Unloos'd his Tongue, and made ſtrange Accents flow:</l>
+                  <l>But here our Anguiſh ſilent did become,</l>
+                  <l>The Horror of her Fate here ſtruck us Dumb;</l>
+                  <l>And <hi>Chlio</hi> the Majeſtick Queen of Wit,</l>
+                  <l>With the News blaſted fell into a Fit;</l>
+                  <l>But now her Spirits with freſh Vigour run,</l>
+                  <l>For in her Face they've ſprinkled <hi>Helican:</hi>
+                  </l>
+                  <l>Her Death for melting Elegies doth call,</l>
+                  <l>And all the Muſes ſhould hold up the Pall;</l>
+                  <l>Mix with her Funeral Unguents <hi>Giliad</hi>'s Balm,</l>
+                  <l>And bind the <hi>Cypreſs</hi> with Triumphant <hi>Palm;</hi>
+                  </l>
+                  <l>She ſtill aſpir'd unto her bleſt abode,</l>
+                  <l>Her Soul roſe higher with the Bodies load.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>She was (my <hi>Damon</hi>) Pious and Devout,</l>
+                  <l>Not like the Cuſtome of the vulgar Rout,</l>
+                  <l>Who Herd themſelves under an holy Roof,</l>
+                  <l>To make wry Faces, and fold down a Proof;</l>
+                  <l>In a new Dreſs their Neighbours to out-ſhine,</l>
+                  <l>And ſhew the ſtaring Pariſh that they're Fine:</l>
+                  <l>She liſten'd with as ſtrict Religious Awe,</l>
+                  <l>As when the <hi>Iſraelites</hi> receiv'd the Law;</l>
+                  <l>Tho' the Inſtructor might by her be led,</l>
+                  <l>For She had all his Topicks in her Head;</l>
+                  <l>Was drown'd in Extaſy with <hi>David</hi>'s Lyre,</l>
+                  <l>Like <hi>Sheba</hi>'s Queen his Son ſhe did admire:</l>
+                  <l>Shun'd his Example, did his Precepts mind,</l>
+                  <l>Tho' to her Sex he was profuſely Kind.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>In a contracted Sphere She brighter ſhone,</l>
+                  <l>(We Grieve and Pray moſt heartily alone;)</l>
+                  <l>And She would often privately withdraw,</l>
+                  <l>Then her Omniſcience only kneeling ſaw;</l>
+                  <l>
+                     <pb n="8" facs="tcp:45746:10"/>She many Hours and late did then beſtow,</l>
+                  <l>And then her Tears in ſilent Streams did flow;</l>
+                  <l>They Piouſly, but yet in vain were ſpilt,</l>
+                  <l>'Cauſe for Ablution they found no Guilt;</l>
+                  <l>For the ſuperfluous Tribute of her Eyes,</l>
+                  <l>To weep out others Debts might well ſuffice;</l>
+                  <l>On her Account ſo much they might abate,</l>
+                  <l>And with her Merit Superarrogate;</l>
+                  <l>Fervent and Conſtant ſhe her Vows did pay,</l>
+                  <l>She did her ſelf and not by Proxy pray,</l>
+                  <l>Like to the <hi>Roman</hi> Lady's eaſy way:</l>
+                  <l>When too much Holineſs the Prieſt commands,</l>
+                  <l>Which like a Drug doth ly upon their hands,</l>
+                  <l>In Gaming they a Remedy do ſeek,</l>
+                  <l>And his Injunctions they throw off at <hi>Gleek;</hi>
+                  </l>
+                  <l>They do not <hi>Louis-d'ors,</hi> or <hi>Guinneys</hi> take,</l>
+                  <l>
+                     <hi>Pater</hi>'s and <hi>Ave-Mary'</hi>s down they ſtake;</l>
+                  <l>The Looſer's forc'd to pray, but ſhe that Wins,</l>
+                  <l>Transfers this Expiation for her Sins.</l>
+                  <l>
+                     <hi>Horace</hi>'s Ruſtick once his Eyes did Tire,</l>
+                  <l>The current of the Flood he did admire;</l>
+                  <l>How that with Windings did it ſelf embrace,</l>
+                  <l>The former ſtill ſucceſſive Waves did trace;</l>
+                  <l>His Time and Patience fruitleſly did waſt,</l>
+                  <l>He gap'd in vain till all the Stream was paſt;</l>
+                  <l>With an Eternal Volume that did glide,</l>
+                  <l>He might as well have ſprouted by its ſide:</l>
+                  <l>So Envy here Conſum'd her ſelf in vain,</l>
+                  <l>To ſee of Vertues ſuch a mighty Train;</l>
+                  <l>Vaſt Numbers were before, and ſhe did find,</l>
+                  <l>That ſtill a long Retinue was behind;</l>
+                  <l>Thick Volumes on her loaded Shelves did ſtand,</l>
+                  <l>So rang'd, that they were ready at Command;</l>
+                  <l>Like Souldiers waiting Orders they did ſtay,</l>
+                  <l>Were not falſe Muſters, but in real Pay.</l>
+                  <l>
+                     <pb n="9" facs="tcp:45746:10"/>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> in a finer Mold was made,</l>
+                  <l>Then only to keep Authors for <hi>Parade;</hi>
+                  </l>
+                  <l>She to divert her did not ſtand in need</l>
+                  <l>Of Monſieur <hi>Scudery,</hi> or <hi>Calprenede;</hi>
+                  </l>
+                  <l>But their elaborate Trifles ſhe did ſlight,</l>
+                  <l>She ſpoke more Wit than both thoſe Two could Write:</l>
+                  <l>When the fond Ladies for their Heroes ſmart,</l>
+                  <l>And Pity <hi>Tiridates</hi> from their Heart,</l>
+                  <l>Then to her Cloſet was a liberal Door,</l>
+                  <l>For the Rich Learning, Medicines for the Poor.</l>
+                  <l>The Labourer who at the Plow doth tug,</l>
+                  <l>When he is Sick, then Ginger is his Drug;</l>
+                  <l>Or ſome Specifick of a <hi>Charlatan,</hi>
+                  </l>
+                  <l>They Live and Dye as Cheap as e're they can</l>
+                  <l>The Place ſhe did with her own Products fill,</l>
+                  <l>Adminiſter'd what ſhe did firſt Diſtil;</l>
+                  <l>Diſeaſes, ne're ſo Monſtrous, ſhe could tame,</l>
+                  <l>An healing Spirit on her Waters came;</l>
+                  <l>With a calm Influence it there did move,</l>
+                  <l>And peaceful Health was brought you by a Dove;</l>
+                  <l>Without his ſting you did the Serpent feel,</l>
+                  <l>The Viper in her Treacles too did heal.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> was the Minion of Fate,</l>
+                  <l>Learning, Wit, Beauty, and a great Eſtate,</l>
+                  <l>And what can richer Bleſſings Complicate?</l>
+                  <l>But Wealth's like Freſco-Painting on a wall,</l>
+                  <l>Where Shades with curious Adjuſtment fall;</l>
+                  <l>Altho' the Colouring looks very Gay</l>
+                  <l>
+                     <hi>Salt-petre</hi> without time will it betray,</l>
+                  <l>And Siegnior <hi>Verrio</hi>'s Pencil muſt decay.</l>
+                  <l>But Wit to after-Ages down will paſs,</l>
+                  <l>A Monument more durable than Braſs;</l>
+                  <l>Some Husbands wealthy Heireſſes do get,</l>
+                  <l>And their own Fortunes like to Moths they fret;</l>
+                  <l>
+                     <pb n="10" facs="tcp:45746:11"/>Upon their mighty Portions they preſume,</l>
+                  <l>And in the Flame at laſt themſelves conſume;</l>
+                  <l>They at each Check do into Anger flaſh,</l>
+                  <l>The paſſive Tool is Keeper of their Caſh;</l>
+                  <l>He like a Steward daily muſt provide,</l>
+                  <l>Materials for their Wantonneſs and Pride,</l>
+                  <l>Their Faults muſt never ſee, or elſe muſt hide;</l>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> wiſely manag'd what ſhe brought,</l>
+                  <l>And other Wives by her Example taught.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Don't you remember that ſome Years ago,</l>
+                  <l>I prais'd this noble Lady;</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Yes I do;</l>
+                  <l>You were Tranſported beyond uſual bounds,</l>
+                  <l>So much the Extaſy of Joy confounds;</l>
+                  <l>So heated we could ſcarce come near the Fire,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>It was <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> did my Breaſt inſpire;</l>
+                  <l>Still on my mind the ſtrong Impreſſion lies,</l>
+                  <l>Liking at firſt to wonder did ariſe;</l>
+                  <l>So ſweet, yet ſo commanding was her Meene,</l>
+                  <l>In her an Unaffected Air was ſeen;</l>
+                  <l>Her Queſtions all were Pertinent and Wiſe,</l>
+                  <l>With eaſy turns of Wit in her Replies:</l>
+                  <l>
+                     <note n="*" place="bottom">
+                        <hi>The Author had the Honour to ſhew her St.</hi> John<hi>'s Colledge.</hi>
+                     </note> The curious Workmanſhip ſhe did applaud,</l>
+                  <l>The Structure great, as was the Founder, <hi>Laud:</hi>
+                  </l>
+                  <l>Here Two ſucceſſively they can relate,</l>
+                  <l>The Props and Ornaments of Church and State;</l>
+                  <l>Them in a different Character you muſt ſeek,</l>
+                  <l>One was Magnanimous, the other Meek;</l>
+                  <l>A Third hath now a Mitre on his Head,</l>
+                  <l>Whoſe Vertues equal, can't ſurpaſs the Dead;</l>
+                  <l>Here Famous Men do conſtantly Preſide,</l>
+                  <l>Still as the hopeful Bloſſoms drop'd and dy'd,</l>
+                  <l>Emergent Wits have ſtill that Loſs ſupply'd.</l>
+                  <l>
+                     <pb n="11" facs="tcp:45746:11"/>This Manſion ſweet <hi>Amariel</hi> doth grace,</l>
+                  <l>Goodneſs is in his Temper, and his Face;</l>
+                  <l>And once the publick <hi>Faſces</hi> he did weild,</l>
+                  <l>For ſuch a Prudence 'twas a proper Field;</l>
+                  <l>He was not Partial, juſtly was Severe,</l>
+                  <l>They did not dread their Puniſher, but revere;</l>
+                  <l>And upright <hi>Lycidas</hi> doth there reſide,</l>
+                  <l>Seems Rough at firſt, but not one Grain of Pride,</l>
+                  <l>Integrity can't be known until 'tis try'd.</l>
+                  <l>But then with rich Diſcoveries you are bleſt,</l>
+                  <l>When you have div'd into his honeſt Breaſt;</l>
+                  <l>His Fortune is proportion'd to his Mind,</l>
+                  <l>Tho' not his Merit, Generous and Kind:</l>
+                  <l>
+                     <hi>Menalcas</hi> by the Learned is admir'd,</l>
+                  <l>He ſeems, in what he Prints, to be inſpir'd;</l>
+                  <l>With ſuch Addreſs he for that Subject fights,</l>
+                  <l>He the Example is of what he writes;</l>
+                  <l>Under an happy Aſpect he is Born,</l>
+                  <l>Knowledge, both to enlarge and to adorn;</l>
+                  <l>With ſuch a charming Gravity doth move,</l>
+                  <l>That whilſt you Reverence you needs muſt Love;</l>
+                  <l>As Courtiers ſurfeited with being Great,</l>
+                  <l>For their Retirement chooſe an homely Seat,</l>
+                  <l>And there accept a clean, tho' courſe-ſpun Treat.</l>
+                  <l>So ſince <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> me ſo far did Bleſs,</l>
+                  <l>As to be pleas'd with ſuch a mean Addreſs;</l>
+                  <l>I on that happy Favour ſtill will Dote,</l>
+                  <l>It is a Canton added to my Coat:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Oh! <hi>Damon,</hi> She was exquiſitely Bred,</l>
+                  <l>Travers'd her own, did forreign Countries tread;</l>
+                  <l>To <hi>Paris</hi> went, but did not there repair</l>
+                  <l>For Toys, to raffle at St. <hi>German</hi>'s Fair;</l>
+                  <l>Of learned Conference ſhe reap'd the Fruits,</l>
+                  <l>Heard their Harangues, and manag'd their Diſputes.</l>
+                  <l>
+                     <pb n="12" facs="tcp:45746:12"/>Madam <hi>Le Feure</hi> did her Friendſhip court,</l>
+                  <l>Nature exactly did their Tempers ſort;</l>
+                  <l>So that betwixt them Wit was current pay,</l>
+                  <l>The <hi>Engliſh</hi> Bullion with the <hi>French</hi> allay;</l>
+                  <l>This Lady Monſieur <hi>d'Acier</hi> did Wed,</l>
+                  <l>The Partner of his Studies and his Bed;</l>
+                  <l>Nothing in her was Trivial or Light,</l>
+                  <l>Like poliſh'd Armour ponderous and bright.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Nature did Children to her Womb deny,</l>
+                  <l>But did that want (if one it is) ſupply,</l>
+                  <l>For where in them doth the great Pleaſure lie?</l>
+                  <l>If wicked grown, their Birth you do deplore,</l>
+                  <l>And they are greater Burthens then before;</l>
+                  <l>Heavier then that a Mother once did feel,</l>
+                  <l>With whom harſh Nature cruelly did deal,</l>
+                  <l>Her Torments ſharper than <hi>Ixion</hi>'s Wheel;</l>
+                  <l>She could not be unloaded of her Freight,</l>
+                  <l>But Swell'd and Labour'd with a monſtrous Weight;</l>
+                  <l>The Ligatures almoſt to breaking ſtrains,</l>
+                  <l>And ſhe had all but thoſe of Child-bed Pains;</l>
+                  <l>So in her Bed the mournful Wretch was laid,</l>
+                  <l>Beyond all Remedies, and <hi>Lucina</hi>'s Aid.</l>
+                  <l>Till Death the kinder Mid-wife cut her Life,</l>
+                  <l>And this made way for the inciſion-Knife,</l>
+                  <l>Her Belly open'd after that ſhe dy'd,</l>
+                  <l>An Infant in her Womb was petrify'd;</l>
+                  <l>In their Enquiry thus they were beguil'd,</l>
+                  <l>For there they found a Statue for a Child:</l>
+                  <l>
+                     <note n="*" place="bottom">
+                        <hi>This happened at</hi> Sens <hi>in</hi> France, <hi>related by</hi> Rouſſett.</note> And <hi>Noſtredame</hi> with his Divining Care,</l>
+                  <l>It did foretel, the Inſtance was ſo rare;</l>
+                  <l>
+                     <hi>Auguſtus</hi> with his Poets did Converſe,</l>
+                  <l>
+                     <hi>Horace</hi> and <hi>Virgil</hi> to him did rehearſe:</l>
+                  <l>
+                     <pb n="13" facs="tcp:45746:12"/>Altho' they chearful Subjects did Compoſe,</l>
+                  <l>Yet they were Penſive both, tho' not Moroſe;</l>
+                  <l>For Wits they ſay are melancholly Men,</l>
+                  <l>As the Ink ſhines that's Blackeſt in the Pen;</l>
+                  <l>
+                     <hi>Mecoenas</hi> did the Emperour ſurprize,</l>
+                  <l>Betwixt a ſighing Breaſt, and ſtreaming Eyes;</l>
+                  <l>So Mothers of their Children the moſt proud</l>
+                  <l>On Phantaſms doat, and hug a weeping Cloud;</l>
+                  <l>And when ſhe ſung her own melodious Songs,</l>
+                  <l>The Quire of chearful Birds about her throngs;</l>
+                  <l>As <hi>Strada</hi>'s Nightingal once ſtrain'd her Throat,</l>
+                  <l>Of a ſweet Shell to imitate the Note;</l>
+                  <l>Her Voice unto the loftieſt Pitch did raiſe,</l>
+                  <l>For even Birds ambitious are of Praiſe;</l>
+                  <l>And when her Warbles ſhe could mount no higher,</l>
+                  <l>Fell dead with emulous Pangs upon the Lyre;</l>
+                  <l>
+                     <hi>Alexandrinus</hi> ſaith, a Chord did lye,</l>
+                  <l>Sadly diſmember'd, when 'twas ſtrain'd too high:</l>
+                  <l>And then a Graſhopper the Rupture heal'd,</l>
+                  <l>Who is the harmleſs Syrene of the Field;</l>
+                  <l>He to the Wound a quick relief did bring,</l>
+                  <l>The loving Inſect gratefully did Sing,</l>
+                  <l>And in the vacant place ſupply'd the ſtring;</l>
+                  <l>Muſick the ſecret exquiſitely knows,</l>
+                  <l>Our Paſſions how to move and to Compoſe;</l>
+                  <l>With lively Stroaks it makes our Spirits bright,</l>
+                  <l>And Martial ones inflame us for a Fight,</l>
+                  <l>Fit for a Warrier and a Carpet-Knight;</l>
+                  <l>For all agreeable purpoſes it ſerves,</l>
+                  <l>When a ſweet <hi>Palſey</hi> ſhakes the tuneful Nerves;</l>
+                  <l>Some Men Religion in ſower Faces place,</l>
+                  <l>Learning and Senſe deſpiſe, are all for Grace;</l>
+                  <l>Who ſcatter Dullneſs whereſoe're they come,</l>
+                  <l>And at a mighty diſtance can benumb;</l>
+                  <l>
+                     <pb n="14" facs="tcp:45746:13"/>Like the <hi>Torpedo</hi> whoſe cold Blood is ſuch,</l>
+                  <l>It ſtupifies the Hand that doth it touch;</l>
+                  <l>Are like the Animal with capricious root,</l>
+                  <l>A mixture 'tis betwixt a Plant and Brute;</l>
+                  <l>He hath not tender Feet or Fleſh to walk,</l>
+                  <l>But grows upon an heterogeneous Stalk;</l>
+                  <l>The Ground of its adjacent Graſs deprives,</l>
+                  <l>As wild and ſtrange as <hi>Tartary</hi> where it Thrives;</l>
+                  <l>With bleating Life doth ſuch a likeneſs keep</l>
+                  <l>A ravenous Woolf miſtook it for a Sheep;</l>
+                  <l>Theſe with malicious Spaſms do always grin,</l>
+                  <l>And think to be Harmonious is a Sin;</l>
+                  <l>When Proteſtants did firſt begin in <hi>France,</hi>
+                  </l>
+                  <l>Had <hi>Calvin</hi> but indulg'd the Folk to Dance,</l>
+                  <l>The Reformation then had farther ſpread,</l>
+                  <l>They would not Converts be with Heels of Lead;</l>
+                  <l>Their Genius was diſcourag'd by theſe Men,</l>
+                  <l>Who againſt innocent Fiddles drew their Pen;</l>
+                  <l>'Gainſt that with dire <hi>Anathema's</hi> did write,</l>
+                  <l>Which is the nobleſt of Mankind's delight,</l>
+                  <l>I mean beſides theſe Men of Grace and Spite.</l>
+                  <l>Whereas one <hi>Orpheus</hi> with his ſtrains of Love</l>
+                  <l>Had given them Heaven below, and one above.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Nothing Impertinent did her Time devour,</l>
+                  <l>Of frivolous Viſits did not make a <hi>Tour;</hi>
+                  </l>
+                  <l>Where they for Faſhions ſtrive as for a prize,</l>
+                  <l>And abſent Reputation Sacrifice;</l>
+                  <l>There in conſult each doth her part diſſect,</l>
+                  <l>And there lay open every ſmall defect;</l>
+                  <l>Some are Devout, but then are ſeeming Saints,</l>
+                  <l>Another's Fair, but then I fear ſhe Paints;</l>
+                  <l>One is good-natur'd, but an arrant fool,</l>
+                  <l>Her Colour <hi>Fucus</hi> is, and <hi>Spaniſh-Wool;</hi>
+                  </l>
+                  <l>Another hath a quick Majeſtick Eye,</l>
+                  <l>But then her ill-ſet Body is a-wry;</l>
+                  <l>
+                     <pb n="15" facs="tcp:45746:13"/>So every one her chattering Rival Apes,</l>
+                  <l>And when they once fall out we know their ſhapes.</l>
+                  <l>Some do their Paſſion and their Time abuſe,</l>
+                  <l>And others Patience, with their <hi>billet doux;</hi>
+                  </l>
+                  <l>For as the Learned <hi>Petrarch</hi> hath defin'd,</l>
+                  <l>Love drawn from Phlegm, and to its height refin'd,</l>
+                  <l>Is when we muſe, or weep, or write our Mind.</l>
+                  <l>Theſe three it in a golden Chain doth link,</l>
+                  <l>It doth conſiſt of Thoughts, and Tears, and Ink;
+<note n="*" place="bottom">
+                        <hi>Penſieri e lagrime e inchioſtro.</hi> Petr.</note>
+                  </l>
+                  <l>Her Off-ſpring was of a more laſting race,</l>
+                  <l>Which Sickneſs can't deform, nor Time deface;</l>
+                  <l>As <hi>Pallas</hi> in the Thunderer was bred,</l>
+                  <l>Nothing but wiſdom iſſu'd from her Head;</l>
+                  <l>On ſly Detractors ſhe did always frown,</l>
+                  <l>Tender of others Credit, as her Own.</l>
+                  <l>The Royal <hi>Ermin</hi> loves the ſweeteſt Graſs,</l>
+                  <l>Nothing can force it thro' the Dirt to paſs;</l>
+                  <l>'Twill rather fall into the Hunters toil,</l>
+                  <l>Then its Prerogative-skin with Foulneſs ſpoil.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> too in Painting did delight,</l>
+                  <l>Muſick doth charm the Ear, and this the Sight;</l>
+                  <l>She with a skilful readineſs could tell,</l>
+                  <l>In what nice Touches each one did excel;</l>
+                  <l>The Pieces when produc'd did quickly know,</l>
+                  <l>This to be <hi>Raphael</hi>'s, that of <hi>Angelo;</hi>
+                  </l>
+                  <l>To what bold flights the noble <hi>Titian</hi> flew,</l>
+                  <l>And the ſweet Paſſion that old <hi>Palma</hi> drew;</l>
+                  <l>Theſe Men do on their Darling fancies doat,</l>
+                  <l>As <hi>Bega</hi> on his <hi>Burdock</hi> and his <hi>Goat.</hi>
+                  </l>
+                  <l>A curious Piece within the ſpacious Hall</l>
+                  <l>Of
+<note n="*" place="margin">Sir <hi>Henry</hi>
+                     </note> 
+                     <hi>Wotton,</hi> hung too low upon the wall;</l>
+                  <l>The Pencil here two ſnarling Doggs did draw,</l>
+                  <l>With flaming Noſtrils and a threatning Paw;</l>
+                  <l>
+                     <pb n="16" facs="tcp:45746:14"/>Blood in their angry Veins did ſeem to beat,</l>
+                  <l>What lay before them both, was painted Meat;</l>
+                  <l>A living Maſtiff did decide the fray,</l>
+                  <l>And from the colour'd Rivals tore the Prey,</l>
+                  <l>The Picture thus deform'd he more did prize,</l>
+                  <l>And Valued it beyond his Embaſſies.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Some do with ſudden indignation fluſh,</l>
+                  <l>And Anger is miſtaken for a Bluſh;</l>
+                  <l>A ſweet Complexion on her Cheeks did ſpread,</l>
+                  <l>'Twas a pacifick Sea altho 'twas Red;</l>
+                  <l>Rich Cloaths on vulgar Carcaſſes we ſee,</l>
+                  <l>But Jewels do diſtinguiſh Quality.</l>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> was not proud of Varniſh'd duſt</l>
+                  <l>She by the Body did her Soul adjuſt:</l>
+                  <l>As once a wiſe Philoſopher did ſay,</l>
+                  <l>That we in Mirrours ſhould our ſelves ſurvey,</l>
+                  <l>That ſuitable Cuſtomes might our Features grace,</l>
+                  <l>The Life be correſpondent to the Face.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>She like —</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Nay more —</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>You inter<g ref="char:EOLhyphen"/>rupt me Sir,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Who would not in this Caſe himſelf prefer?</l>
+                  <l>More than ſeven Cities ſhould contend for Her,</l>
+                  <l>As once for <hi>Homer;</hi> for what eager Earth</l>
+                  <l>Would not Ambitious be of ſuch a Birth?</l>
+                  <l>So that betwixt us only's the Conteſt,</l>
+                  <l>By whom ſhe ſhould be Celebrated beſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>She like a Jewel curiouſly was ſet,</l>
+                  <l>But not to be a talkative <hi>Coquet,</hi>
+                  </l>
+                  <l>Who's prating whereſoever ſhe doth come,</l>
+                  <l>As troubleſome as was <hi>Mompeſſon</hi>'s Drum;</l>
+                  <l>But Modeſty in <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> was refin'd,</l>
+                  <l>She like the Morning, bluſh'd before ſhe ſhin'd;</l>
+                  <l>Things of Importance ſtill her ſilence broke,</l>
+                  <l>But you the Oracle muſt firſt invoke,</l>
+                  <l>Not like thoſe old Impoſtors in the Oak;</l>
+                  <l>
+                     <pb n="17" facs="tcp:45746:14"/>Who doubtful Reſolutions did diſpenſe,</l>
+                  <l>And always whiſper'd in a cloven Senſe;</l>
+                  <l>Then <hi>Moreland</hi>'s Trumpet had been right apply'd,</l>
+                  <l>As good an Oracle as ever ly'd.</l>
+                  <l>If any thing had happ'ned to diſpleaſe,</l>
+                  <l>She turn'd it off with an obliging Eaſe.</l>
+                  <l>As once a Man who mixeth up Deceits;</l>
+                  <l>Was bold to practiſe with his fil'd Receipts;</l>
+                  <l>Who with falſe <hi>Succedaneums</hi> you doth jilt,</l>
+                  <l>But his ſmooth Tongue was like his Boxes Gilt;</l>
+                  <l>A ſtrict and Solemn Embaſſy did bring,</l>
+                  <l>Unto <hi>Alphonſo</hi> that Great <hi>Naples</hi> King;</l>
+                  <l>Who <hi>Apothegmes</hi> ſpoke, and always wit,</l>
+                  <l>And by <hi>Panormitan</hi> his Life is writ;</l>
+                  <l>When the Harangue was by that Emp'rick made,</l>
+                  <l>An Ear-wig Courtier told the Prince his Trade;</l>
+                  <l>He ſmil'd, and with a courteous Air reply'd,</l>
+                  <l>A Reprimand to check the other's Pride;</l>
+                  <l>How ſhall we (Friend) thoſe great Phyſicians prize,</l>
+                  <l>If that their Med'cine-makers are ſo wiſe?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Her injur'd Countrey's Part ſhe ſtill did take,</l>
+                  <l>Nothing her upright Conſtancy could ſhake;</l>
+                  <l>Tho' then the times had got a Calenture,</l>
+                  <l>And inflam'd Bigots rag'd beyond a Cure;</l>
+                  <l>Then in Addreſſes fulſome Ink was ſpent,</l>
+                  <l>And they Vow'd ſolemnly what they never meant.</l>
+                  <l>If one with words too laviſhly doth treat,</l>
+                  <l>You always may ſuſpect him for a Cheat;</l>
+                  <l>With flatteries they did the Throne beguile,</l>
+                  <l>And only in a Complement did ſmile;</l>
+                  <l>Shew'd their Braſs Faces, and their Leaden Style;</l>
+                  <l>They call'd it Peace when 'twas a ſtupid Calm,</l>
+                  <l>When Jeſuits did falſe wares upon us palm;</l>
+                  <l>As now in <hi>Venice,</hi> they in Masks did play,</l>
+                  <l>And when detected they all ſneak'd away;</l>
+                  <l>
+                     <pb n="18" facs="tcp:45746:15"/>Nay then the Council-Table was forſook</l>
+                  <l>By an Old, Sharping, Antiquated
+<note n="*" place="margin">F. P.</note> Rook;</l>
+                  <l>Went to the Pope for a new Bale of Dice,</l>
+                  <l>Who is the Head infallible of Vice;</l>
+                  <l>Theſe are the ſaucy Cenſurers of Kings,</l>
+                  <l>Whoſe charitable Heat doth give them wings;</l>
+                  <l>Who otherwiſe within their Holes muſt keep,</l>
+                  <l>And ſcarce are warm'd with Life enough to creep;</l>
+                  <l>With an affected, ſwelling Air they walk,</l>
+                  <l>Stare, and look Big, but not much given to Talk;</l>
+                  <l>The Devil that poſſeſſeth them is Dumb,</l>
+                  <l>And you may crack theſe Vermine on your Thumb;</l>
+                  <l>Nay from a Field of Thiſtles they will run,</l>
+                  <l>As once in
+<note n="†" place="bottom">
+                        <hi>Related by</hi> Philip <hi>de</hi> Comines.</note> 
+                     <hi>France</hi> that great Exploit was done;</l>
+                  <l>When theſe <hi>Scotch</hi> Pike-men rais'd their panick Fears,</l>
+                  <l>And their arm'd Heads they did miſtake for Spears;</l>
+                  <l>Theſe wretches deſecrate the Holy day,</l>
+                  <l>And come to Church to ſhew they cannot Pray;</l>
+                  <l>They draw their Swords in <hi>Poland</hi> at the Creed,</l>
+                  <l>To manifeſt that for that Faith they'd Bleed;</l>
+                  <l>Theſe Men would utter a malignant Joy,</l>
+                  <l>If they our Laws and Goſpel could deſtroy;</l>
+                  <l>They are the wild <hi>Chimaera's</hi> of a Dream,</l>
+                  <l>Are ſlaviſh Creatures harneſs'd in a Teem;</l>
+                  <l>Sometimes you're Kill'd by an officious Friend,</l>
+                  <l>So theſe ſubvert the Church they would defend.</l>
+                  <l>As once a miſerable King did lie</l>
+                  <l>Half dead with Palſey, and the Lethargy;</l>
+                  <l>The fits almoſt of Senſe did him deprive,</l>
+                  <l>And this great Perſon they Embalm'd alive;</l>
+                  <l>To wrap the Carcaſs in they dawb'd a cloth,</l>
+                  <l>To warm and rouze up his Diſeaſes ſloth;</l>
+                  <l>
+                     <pb n="19" facs="tcp:45746:15"/>The Surgeon by an evil Genius led,</l>
+                  <l>The Candle he apply'd to burn the Thread;</l>
+                  <l>The Monarch was Calcin'd, He did expire</l>
+                  <l>Another <hi>Hercules,</hi> in an unctuous Fire.</l>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> ſaw the mighty Torrent come,</l>
+                  <l>
+                     <hi>Seine</hi> with the <hi>Tiber</hi> mix'd, and <hi>France</hi> with <hi>Rome;</hi>
+                  </l>
+                  <l>But righteous <hi>Moſes</hi> did command the flood,</l>
+                  <l>And then the liquid Cryſtal ſolid ſtood;</l>
+                  <l>The Waters to arreſt their Courſe he bids,</l>
+                  <l>And now the Sea too had its Pyramids;</l>
+                  <l>That Element turn'd Rock, it could not run,</l>
+                  <l>He ſtop'd the Ocean, <hi>Joſhua</hi> the Sun;</l>
+                  <l>With the laſt Hand to finiſh her Renown,</l>
+                  <l>We'll to her Laurel add the Civick Crown.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>And now methinks I ſee <hi>E<g ref="char:V">Ʋ</g>GENIA</hi> Dye,</l>
+                  <l>And I my ſelf a ſable Mourner by;</l>
+                  <l>Each took about her Bed a mournful Poſt,</l>
+                  <l>Did by their Looks anticipate her Ghoſt;</l>
+                  <l>
+                     <note n="*" place="bottom">Torquato Taſſo.</note> 
+                     <hi>Smarriſce il bel volto in un colore,</hi>
+                  </l>
+                  <l>
+                     <hi>Che non e pallidezza, ma candore;</hi>
+                  </l>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA'S</hi> Death was like a Summer's Night,</l>
+                  <l>Where Darkneſs ſtill is Checquer'd o're with Light,</l>
+                  <l>'Twas not a Paleneſs, but a lovely White.</l>
+                  <l>And now apace the vital Heat abates,</l>
+                  <l>And now the languid Pulſe vermiculates:</l>
+                  <l>There with her laſt Regrets ſhe ſtruggling lay,</l>
+                  <l>Her Soul contending with reluctant Clay,</l>
+                  <l>And Death by gradual Conqueſt forc'd its way;</l>
+                  <l>It firſt attack'd, and then diſſolv'd the Eye,</l>
+                  <l>Where Goodneſs lodg'd, and Wit did ſparkling lye:</l>
+                  <l>The traces of the Soul in it we find,</l>
+                  <l>It is the legible Index of the Mind:</l>
+                  <l>
+                     <pb n="20" facs="tcp:45746:16"/>Nature with Out-works doth this Fortreſs hold,</l>
+                  <l>With curious Coats the texture doth enfold:</l>
+                  <l>Death paſs'd them all, and made a Lodgment there,</l>
+                  <l>And the laſt Pang deſtroy'd the Cryſtal ſphere:</l>
+                  <l>No diſmal <hi>Screech-Owl</hi> with fore-boding Wings,</l>
+                  <l>Of her approaching Fate the meſſage brings:</l>
+                  <l>And then no Ominous worm Proclaim'd her Dead,</l>
+                  <l>A Maggot in the Board, or in the Head:</l>
+                  <l>But a Seraphick Lover there did ſtay,</l>
+                  <l>Her Soul when 'twas diſ-lodg'd to waft away;</l>
+                  <l>
+                     <hi>Waller,</hi> who Living, Her below did praiſe,</l>
+                  <l>His Head encircled with immortal Rays,</l>
+                  <l>And now with Luſtre Crown'd inſtead of Bays;</l>
+                  <l>With a freſh tranſport did renew his Theme,</l>
+                  <l>Being defaecated now from Earthly phlegm;</l>
+                  <l>
+                     <hi>Cowley</hi> darts out Extravagantly bright,</l>
+                  <l>In a <hi>Pindarick,</hi> flowing Robe of Light;</l>
+                  <l>The fair <hi>Orinda</hi> glitters by his ſide,</l>
+                  <l>To a chaſt Lover joyn'd a vertuous Bride;</l>
+                  <l>This Gueſt they with their choice Regards did prize,</l>
+                  <l>And ſhew'd her the Apartments of the skies;</l>
+                  <l>For here a Magazine of Sighs appears,</l>
+                  <l>There Vials ſtood with penitential Tears;</l>
+                  <l>Here was the Court of Regiſter for Prayer,</l>
+                  <l>And there the Ventiducts of Incens'd Air;</l>
+                  <l>Of mighty Grace there the Diſpatches lay,</l>
+                  <l>Were ready for the Envoys to convey;</l>
+                  <l>Who unto Death-bed-ſinners bring relief,</l>
+                  <l>As once unto the Crucified Thief;</l>
+                  <l>And here in Capital Beams their Names were fil'd,</l>
+                  <l>Who under Popiſh perſecutions ſmil'd;</l>
+                  <l>The <hi>Smithfield</hi> Confeſſors are Recorded here,</l>
+                  <l>And Saints of the <hi>Pariſian</hi> Maſſacre.</l>
+                  <l>
+                     <pb n="21" facs="tcp:45746:16"/>A
+<note n="*" place="bottom">Katharine de Medices.</note> Mother taught her Stripling to deſtroy,</l>
+                  <l>A cruel Mother and a wicked Boy!</l>
+                  <l>With ſome this fond Opinion doth paſs,</l>
+                  <l>The melted Globe ſhall be a <hi>Venice</hi> Glaſs;</l>
+                  <l>For when the Furnace hath the Metal try'd,</l>
+                  <l>With its laſt Efforts it is vitrify'd;</l>
+                  <l>Lightning with fury uncontroul'd ſhall run,</l>
+                  <l>Being re-inforc'd with Legions from the Sun;</l>
+                  <l>Then Bolts of roaring Thunder ſhall be hurl'd,</l>
+                  <l>And Heaven ſhall Bomb this Sublunary World;</l>
+                  <l>An horrid Luſtre ſhines into the Cave,</l>
+                  <l>In haſt they break the Ligaments of the Grave;</l>
+                  <l>Out of its Niche <hi>Aegyptian</hi> Mummey comes,</l>
+                  <l>With myſtick Characters and harden'd Gums;</l>
+                  <l>Fiſh on the ſcalded Shore ſhall panting lie,</l>
+                  <l>And now for want of Element muſt die;</l>
+                  <l>Then Earth-quakes ſhall the Bars of Minerals wrench,</l>
+                  <l>Flame ſhall abſorp the waters of the Trench;</l>
+                  <l>Then every Bird will like a <hi>Phoenix</hi> burn,</l>
+                  <l>But no freſh Off-ſpring riſeth from the Urn;</l>
+                  <l>The Sea from tribute ſhall releaſe the Streams,</l>
+                  <l>And the pale Moon refund her borrow'd Beams;</l>
+                  <l>Her <hi>Quota</hi> to the Conflagration pays,</l>
+                  <l>For by this Tenure ſhe did hold her Rays:</l>
+                  <l>The Silk-worm doth our Reſurrection ſhow,</l>
+                  <l>If any thing reſembles it Below,</l>
+                  <l>That Gentile Infect doth with changes grow;</l>
+                  <l>'Fore in its ſoft Apartment it doth lye,</l>
+                  <l>Hath ſpeckled Wings, and is a Butter-flye;</l>
+                  <l>Then unto higher Stages doth ariſe,</l>
+                  <l>Is an <hi>Aurelia,</hi> and a <hi>Chryſalis;</hi>
+                  </l>
+                  <l>
+                     <pb n="22" facs="tcp:45746:17"/>So we thro' various Revolutions paſs,</l>
+                  <l>We firſt are Earth, and that ſprings up to Graſs,</l>
+                  <l>When the Earth's moiſten'd with a fertile Shower,</l>
+                  <l>This Herbage bellowing Cattle doth devour;</l>
+                  <l>Then they by un-relenting Hands muſt die</l>
+                  <l>The gnawing, acid Juice to ſatisfy;</l>
+                  <l>So that the World we in a Circle beat,</l>
+                  <l>Alternately are Eaten, and do Eat;</l>
+                  <l>But now the ſcatter'd Atomes ſhall Unite,</l>
+                  <l>Which were diſpers'd in Shipwrack or a Fight:</l>
+                  <l>All wicked Authors now muſt Proſtrate lie,</l>
+                  <l>And dread thoſe heavenly Powers they did defie,</l>
+                  <l>Old <hi>Hobbs, Occhinus,</hi> and the <hi>Turkiſh-Spy;</hi>
+                  </l>
+                  <l>Now they ſhall be condemn'd unto a Flame,</l>
+                  <l>As here their Writings did deſerve the ſame;</l>
+                  <l>That Scribler with a ſtalking-Horſe doth advance,</l>
+                  <l>And his ſly <hi>Atheiſm</hi> lurks behind <hi>Romance;</hi>
+                  </l>
+                  <l>That <hi>Maſquerading,</hi> ill-diſſembled Man,</l>
+                  <l>Before the <hi>Scriptures</hi> puts the <hi>Alcoran;</hi>
+                  </l>
+                  <l>And doth prefer that Grand Impoſtor's Dove,</l>
+                  <l>To that bleſs'd Spirit of Immortal Love,</l>
+                  <l>Who with Good motions in our Minds doth move;</l>
+                  <l>Young Rake-Hells with theſe Principles are imbu'd,</l>
+                  <l>Who from their Cradles Swear, are early Lewd;</l>
+                  <l>At a cheap rate their Conſciences do ſell,</l>
+                  <l>Are very forward Candidates for Hell;</l>
+                  <l>And then they imitate the Character</l>
+                  <l>Of <hi>Clodius,</hi> or Unconverted <hi>R—r;</hi>
+                  </l>
+                  <l>His Soul grew Vigorous in his Health's decay,</l>
+                  <l>With Tears of Penitence waſh'd his Sins away;</l>
+                  <l>His Reaſon which ſo long did ſmother'd lie,</l>
+                  <l>At laſt broke forth with ſtronger Energy;</l>
+                  <l>On his laſt Scene of Life th'Almighty ſmil'd,</l>
+                  <l>For Heaven is eaſy to be reconcil'd;</l>
+                  <l>
+                     <pb n="23" facs="tcp:45746:17"/>And now the haughty Monarchs muſt appear,</l>
+                  <l>They who made others Tremble now muſt Fear;</l>
+                  <l>Now they muſt give Account with Sanguine guilt,</l>
+                  <l>For all the Blood they wantonly have ſpilt:</l>
+                  <l>He that whole Nations offer'd to his Luſt,</l>
+                  <l>At laſt was crumbled into common Duſt;</l>
+                  <l>Stern Death did the Imperial Carcaſs ſhake,</l>
+                  <l>And now the Trumpet doth thoſe Bones a wake;</l>
+                  <l>But with this Thundering noiſe he is not call'd,</l>
+                  <l>To make a War by which the World's enthral'd,</l>
+                  <l>Juſtice an Expiation will require,</l>
+                  <l>For every Cottage that he ſet on fire;</l>
+                  <l>And Divine Vengeance ſhall that Monſter tame,</l>
+                  <l>Who a whole Countrey kindled into flame;</l>
+                  <l>Did impiouſly on ſacred Aſhes tread,</l>
+                  <l>And rifl'd all the Monuments of the Dead;</l>
+                  <l>A Promiſe only was a ſpecious Lye,</l>
+                  <l>And a repeated Oath a Perjury:</l>
+                  <l>The Lives his Sword did ſhed are now Divine,</l>
+                  <l>The humble Plants his Lillies ſhall out-ſhine;</l>
+                  <l>They languiſh all, with drooping Heads they fade,</l>
+                  <l>And thoſe now Triumph which he Martyrs made;</l>
+                  <l>But in a Lake of Brimſtone he ſhall ſwim,</l>
+                  <l>And <hi>Lucifer</hi>'s a Tyrant over him.</l>
+               </lg>
+               <lg>
+                  <l>* <hi>Chiama gli habitator de l'ombre eterne,</hi>
+                  </l>
+                  <l>
+                     <hi>Il rauco ſuon de la tartarea tromba,</hi>
+                  </l>
+                  <l>
+                     <hi>Treman le ſpatioſe, atre Caverne,</hi>
+                  </l>
+                  <l>
+                     <hi>E l'aer cieco a quel rumor ribomba;</hi>
+                  </l>
+                  <l>
+                     <hi>Ne ſi ſtridendo mai de le ſuperne,</hi>
+                  </l>
+                  <l>
+                     <hi>Regioni del Cielo il folgor piomba;</hi>
+                  </l>
+                  <l>
+                     <hi>Ne ſi Scoſſa gianmai trema la Terra,</hi>
+                  </l>
+                  <l>
+                     <hi>Quando i vapori in ſen;
+<note place="margin">Taſſo.</note> gravida Serra</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="24" facs="tcp:45746:18"/>
+                  <l>* Then the hoarſe Trump with its <hi>Tartarian</hi> ſound,</l>
+                  <l>Shades of eternal Darkneſs ſhall awake,</l>
+                  <l>When the blind Air ſhall with the Noiſe rebound,</l>
+                  <l>And the ſad ſpatious Caverns all ſhall quake;</l>
+                  <l>Lightning when haſty Flaſhes ſtrike the ground,</l>
+                  <l>Not from the Sky ſo ſwift a Flight ſhall make;</l>
+                  <l>Nor ſhall the Earth ſuch ſtrong Convulſions ſhock,</l>
+                  <l>When in her pregnant womb ſhe Winds doth lock.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>E<g ref="char:V">Ʋ</g>GENIA'S</hi> Humour never was ſevere,</l>
+                  <l>Nor made an injur'd Eye to ſhed a Tear,</l>
+                  <l>Unleſs when Dead, as we lament Her here;</l>
+                  <l>She doth partake of other ſtreams of Joy,</l>
+                  <l>And the repeated Pleaſure cannot cloy:</l>
+                  <l>This is the rich Reward of all our Toil,</l>
+                  <l>As in a River hunted Deer take Soil;</l>
+                  <l>She now her Throne with juſt Grandeur doth fill,</l>
+                  <l>Whilſt we poor Mortals pant it up the Hill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Unjuſtly againſt Women we inveigh,</l>
+                  <l>When their Ingredients are the finer Clay;</l>
+                  <l>
+                     <hi>Hippolyta Taurella</hi> did complain,</l>
+                  <l>Of a long Abſence in a melting Strain;</l>
+                  <l>Sweetly allur'd <hi>Caſtiglione</hi> home,</l>
+                  <l>And made him quit for her the Charms of <hi>Rome:</hi>
+                  </l>
+                  <l>Her Verſes mov'd on eaſy, tender Feet,</l>
+                  <l>Courtly as <hi>Ovid,</hi> like <hi>Tibullus</hi> ſweet:</l>
+                  <l>
+                     <hi>Scurman</hi> with great Accompliſhments did ſhine,</l>
+                  <l>A quick Philoſopher, and deep Divine.</l>
+                  <l>She at the nobleſt Quarries ſtill did fly,</l>
+                  <l>The Gordian Knots of Learning could unty;</l>
+                  <l>Our Women ſhould, who Government debate,</l>
+                  <l>Her Modeſty and Wiſdome imitate;</l>
+                  <l>Altho' at <hi>Holland</hi> they do Rail ſo much,</l>
+                  <l>This Lady was a Scholar, yet was <hi>Dutch:</hi>
+                  </l>
+                  <l>
+                     <pb n="25" facs="tcp:45746:18"/>We ſhould not Merit by a Climate Scan,</l>
+                  <l>For <hi>Anacharſis</hi> was a <hi>Scythian;</hi>
+                  </l>
+                  <l>One ſaith that Countrey's very deep with Boggs,</l>
+                  <l>And ſo is Ours, and the Air fat with Frogs;</l>
+                  <l>This motive doth the <hi>French</hi> Ambition whet,</l>
+                  <l>That this delicious Morſel they might get;</l>
+                  <l>A Diſh of <hi>Grenovilles</hi> is their chiefeſt Treat,</l>
+                  <l>Nay Spawn their eager Appetites would Eat;</l>
+                  <l>They are by Hunger not by Courage led,</l>
+                  <l>Glory's their Feint, but they do fight for Bread;</l>
+                  <l>
+                     <hi>Padua</hi> did ſhew it had a lively Senſe,</l>
+                  <l>When that
+<note n="*" place="bottom">'Tis a thing highly Unuſual to give a Woman a Degree, but this they did out of Deference to her Worth.</note> 
+                     <hi>Cornara</hi> Doctor did commence;</l>
+                  <l>'Twas a juſt Favour they did they then confer,</l>
+                  <l>And once they recompenc'd Deſert in Her;</l>
+                  <l>It otherwiſe hath ſolemn Ideots rear'd,</l>
+                  <l>Who what they want in Skill make out in Beard,</l>
+                  <l>And then the Goat's the Leader of an Herd;</l>
+                  <l>As <hi>Spaniard</hi> on you with <hi>Toledoe</hi> flies,</l>
+                  <l>If you dare ſay <hi>Muſtachoes</hi> are not wiſe;</l>
+                  <l>Upon a ſeat of Learning 'tis a Blot,</l>
+                  <l>To Dubb theſe Interlopers on the ſpot;</l>
+                  <l>In Honor without Merit they improve,</l>
+                  <l>Nothing for Money, but 'tis all for Love;</l>
+                  <l>'Tis like <hi>Chapines</hi> on which you raiſe a Dwarf,</l>
+                  <l>Or as each whifler Arrogates a Scarf;</l>
+                  <l>When the Venetian <hi>Zecca</hi> comes to fail,</l>
+                  <l>The Senate offers Dignity to Sale:</l>
+                  <l>Cheap Penny-worths of Titles they afford,</l>
+                  <l>And you by inch of Candle are a Lord;</l>
+                  <l>Altho' this Lady could not Ducats pay,</l>
+                  <l>Her Learning all their Honour did Out-weigh;</l>
+                  <l>
+                     <pb n="26" facs="tcp:45746:19"/>That
+<note n="*" place="bottom">
+                        <hi>The Lady</hi> Jane Grey.</note> Lady whom Miſ-fortunes could not break,</l>
+                  <l>Did <hi>Plato</hi> Read in his Mellifluous Greek;</l>
+                  <l>When by the Axe the harmleſs Victim bled,</l>
+                  <l>They ſtruck off many Languages with one Head;</l>
+                  <l>How Good and how Ingenuous they can be,</l>
+                  <l>We in <hi>E<g ref="char:V">Ʋ</g>GENIA'S</hi> Example ſee.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>We've done with Praiſe, now <hi>Alcon</hi> Satyr bring,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>
+                     <hi>Eugenia</hi>'s Character hath Diſ-arm'd my Sting;</l>
+                  <l>My Juſt Remarks would otherwiſe purſue,</l>
+                  <l>And ſay there's no Man Honeſt, Juſt or True.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Kind Heaven avert the Omen!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Very few:</l>
+                  <l>For the two Principles which Govern here,</l>
+                  <l>And turn this Globe, are Intereſt and Fear;</l>
+                  <l>Satyr we as a Remedy ſhould prize,</l>
+                  <l>Which doth our Vice impartially Chaſtiſe;</l>
+                  <l>You don't with eaſy Blaſts the wounded Fan,</l>
+                  <l>You cut off Limbs, and do the Skull Trepan;</l>
+                  <l>Tho' the wrack'd Patient doth with Torture groan,</l>
+                  <l>They uſe the Cauſtick and the Vitriol-ſtone;</l>
+                  <l>A Gentle here would be a Murd'ring Hand,</l>
+                  <l>For <hi>Rhubarb</hi> is the Health of Reprimand;</l>
+                  <l>Vertue ne're ſtrictly hath what it deſerves,</l>
+                  <l>And Honeſty is prais'd, but yet it Starves;</l>
+                  <l>Rapine and Luxury do bear the Sway,</l>
+                  <l>And fierce Mankind on one another Prey;</l>
+                  <l>Nay ſometimes you Two Enemies purſue,</l>
+                  <l>To thread the Labyrinth you want a Clue:</l>
+                  <l>Like that unhappy Fiſh that's forc'd to fly,</l>
+                  <l>From the wet Element into the dry;</l>
+                  <l>From his keen Hunter doth a Refuge get,</l>
+                  <l>And there he hovers whilſt his Wings are wet;</l>
+                  <l>But then the Pirates of the Air with Claws,</l>
+                  <l>Force him into his firſt Purſuer's Jaws;</l>
+                  <l>
+                     <pb n="27" facs="tcp:45746:19"/>So that betwixt them both he can't forego,</l>
+                  <l>Or his Domeſtick, or his Forreign Foe;</l>
+                  <l>Men wheedle firſt, and then they do Deſtroy,</l>
+                  <l>The World's a ſtanding Pool, a great Decoy;</l>
+                  <l>Where <hi>Fourberies</hi> on one another paſs</l>
+                  <l>As in a Country that is deep <hi>Moraſs;</hi>
+                  </l>
+                  <l>A Race of Feather'd <hi>Sicophants</hi> they breed,</l>
+                  <l>The <hi>Politician</hi> lurks behind the Reed,</l>
+                  <l>And tempts the Fowl along by throwing Seed:</l>
+                  <l>For the Wing'd Travellers frequent this Lake,</l>
+                  <l>Which they a <hi>Stygian</hi> by their Death do make,</l>
+                  <l>That they of Food and Company may partake;</l>
+                  <l>But Hunger thus makes them an eaſy Prey,</l>
+                  <l>And the Aſſociates do their Friends betray;</l>
+                  <l>But firſt a rigid Silence you muſt keep,</l>
+                  <l>It muſt as undiſturb'd be, and as deep</l>
+                  <l>As when at mid-night the tir'd World doth ſleep:</l>
+                  <l>Then not to ſtir you muſt a Caution have,</l>
+                  <l>As when Men mean to Cheat with Viſage Grave;</l>
+                  <l>And there in Ambuſcade Perdue muſt lie,</l>
+                  <l>Theſe Creatures ſtill hear quicker than they flie;</l>
+                  <l>And now comes Sailing on the Caravan,</l>
+                  <l>Which when ſo near that he may them Trapan,</l>
+                  <l>Up ſtarts the Shrewd, Inhoſpitable Man;</l>
+                  <l>The Deniſons of the Stream away do get,</l>
+                  <l>Whilſt the wild Captives flutter in the Net.</l>
+                  <l>I'de be that happy man who ſpent his Age</l>
+                  <l>Within the Circle of an Hermitage:</l>
+                  <l>Not the leaſt Curioſity did uſe;</l>
+                  <l>Nor heard, nor made Enquiry after News;</l>
+                  <l>Three Kings of <hi>France</hi> ſucceſſively had Reign'd,</l>
+                  <l>And all the Realm with Civil Blood was ſtain'd;</l>
+                  <l>He free and undiſturb'd did Live alone,</l>
+                  <l>Knew not who left, or who did fill the Throne.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:45746:20"/>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>The Hiſtories of <hi>Sicily</hi> do tell,</l>
+                  <l>That once a Man did in the Ocean dwell;</l>
+                  <l>Forſook the Hills and all the fruitful Dales,</l>
+                  <l>And only did Converſe with Fins and Scales;</l>
+                  <l>Men Horn'd and Hoof'd have dwelt within the Woods,</l>
+                  <l>But this was the firſt Satyr of the Floods;</l>
+                  <l>His Life might properly be ſaid to flow,</l>
+                  <l>And a kind <hi>Dolphin</hi> was his Bed-fellow;</l>
+                  <l>Sometimes for Air he'd come upon the Beech,</l>
+                  <l>Within Mens Eye-ſight, though beyond their reach:</l>
+                  <l>If them he firſt Eſpied, away he fled,</l>
+                  <l>And Div'd again into his Coral Bed;</l>
+                  <l>For that they ſay is in the Water ſoft,</l>
+                  <l>And hardned grows when it is brought aloft:</l>
+                  <l>Within an hollow Rock he had a Room,</l>
+                  <l>Which Amber-Greaſe did with its Scent Perfume;</l>
+                  <l>That precious Earth doth in thoſe Bottomes grow,</l>
+                  <l>Till furious Tempeſts do it upwards throw;</l>
+                  <l>At laſt he in the Dark miſ-took his way,</l>
+                  <l>Or to his Fellow-Citizens was a Prey.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>I would (my <hi>Damon</hi>) Live within theſe Fields,</l>
+                  <l>Where Nature Genuine Satisfaction yields;</l>
+                  <l>Here I'de Erect a ſolitary Cell,</l>
+                  <l>Wild Beaſts do only in the Cities dwell:</l>
+                  <l>A Life abſtracted here a Man enjoys,</l>
+                  <l>Not mix'd with Falſhood, nor debauch'd with Noiſe:</l>
+                  <l>Here in offenſive Company I'de keep,</l>
+                  <l>With honeſt Cows, and undeſigning Sheep:</l>
+                  <l>Poverty pincheth, a great Fortune loads,</l>
+                  <l>And nothing pleaſeth You which Incommodes;</l>
+                  <l>Great Empire did Proud <hi>Diocleſian</hi> tire,</l>
+                  <l>
+                     <hi>Marcellus</hi> wept, and <hi>Scipio</hi> did retire;</l>
+                  <l>
+                     <hi>Antiochus</hi> thank'd the Senators of <hi>Rome,</hi>
+                  </l>
+                  <l>That by their Conſuls he was overcome:</l>
+                  <l>
+                     <pb n="29" facs="tcp:45746:20"/>Acknowledg'd all their Triumphs to be kind,</l>
+                  <l>Their Victory his ſwelling Thoughts confin'd;</l>
+                  <l>I would not be a Cully, nor would Cheat,</l>
+                  <l>Nor flatter Ladies Lap-dogs to be Great:</l>
+                  <l>I would not be diſtinguiſh'd by a Tribe,</l>
+                  <l>Nor cringe to Courtiers, nor the Lawyer's Bribe;</l>
+                  <l>A ſlender Diet for my Health I'de chooſe,</l>
+                  <l>Phyſicians I'de admire, but ſeldom uſe:</l>
+                  <l>This of my Life I would propoſe the End,</l>
+                  <l>To read a Book, and to enjoy a Friend;</l>
+                  <l>I would not be Moroſe, but ſometimes Sad,</l>
+                  <l>For this allays the Exceſs of being Glad;</l>
+                  <l>Sanguine and Melancholly both ſhould meet,</l>
+                  <l>One equal makes the Blood, the other Sweet;</l>
+                  <l>I'de welcome the approaches of my Fate,</l>
+                  <l>With Thoughts not conſcious, and a Mind ſedate;</l>
+                  <l>
+                     <note n="*" place="bottom">Jean d' Albret, <hi>Queen of</hi> Navarre, <hi>the Mother of</hi> Henry <hi>the</hi> IV <hi>of</hi> France.</note> 
+                     <hi>Albret</hi> a mighty Genius did bring</l>
+                  <l>Into the World, and in her Pangs did Sing;</l>
+                  <l>'Twas a Preſage of what he after won,</l>
+                  <l>It was an <hi>Io Paean</hi> for her Son;</l>
+                  <l>As quiet in my Bed of Death I'de lie,</l>
+                  <l>And with the eaſe as ſhe brought forth, would die;</l>
+                  <l>Or like to <hi>Saxonies</hi> brave Temper'd Duke,</l>
+                  <l>Who ſcorn'd of Fortune the ſevere Rebuke;</l>
+                  <l>
+                     <note n="†" place="bottom">The Fifth.</note> 
+                     <hi>Charles,</hi> whoſe Ambition with the World did Jarr,</l>
+                  <l>Did Beat him with the Rooking Dice of War:</l>
+                  <l>And when he had this noble Perſon down,</l>
+                  <l>His Smiles ne're alter'd for the others Frown;</l>
+                  <l>A meſſenger of Death to him was ſent,</l>
+                  <l>Which was the laſt and fatal Complement:</l>
+                  <l>
+                     <pb n="30" facs="tcp:45746:21"/>The Tidings did not chill him, nor enflame,</l>
+                  <l>Only deſir'd that he might play out his Game;</l>
+                  <l>For ſome few Minutes would the Axe delay,</l>
+                  <l>Till he had finiſht Stratagems at play;</l>
+                  <l>That wiſe removes as Penſive Cheſs might yield,</l>
+                  <l>That Luck, which was deny'd him in the Field:</l>
+                  <l>His Doom revers'd this Reſolution gains,</l>
+                  <l>He triumph'd o're his Conquerour in Chains;</l>
+                  <l>In ſuch an eaſy, obvious Style I'de write,</l>
+                  <l>Which <hi>Damon</hi> might, and <hi>Lycophron</hi> delight;</l>
+                  <l>Unto this Talent very few attain,</l>
+                  <l>At once to be both Elegant and Plain.</l>
+                  <l>
+                     <note n="*" place="bottom">
+                        <hi>A Famous</hi> French <hi>Poet.</hi>
+                     </note> 
+                     <hi>Malherbe</hi> did to his <hi>Fille de Suite</hi> rehearſe</l>
+                  <l>His Poems, made his Chamber-maid Judge of Verſe;</l>
+                  <l>If that the Senſe upon her Mind did dart,</l>
+                  <l>He knew where lay the Touches of his Art:</l>
+                  <l>Then Mathematicks cloſely I'de purſue,</l>
+                  <l>It is not only Plauſible, but True;</l>
+                  <l>My chiefeſt Labour ſhould on this be ſpent,</l>
+                  <l>The want of which I do too late Repent;</l>
+                  <l>Inſtruction in a Vehicle of Delight,</l>
+                  <l>Number and Time, and Space ſeem Infinite;</l>
+                  <l>The Greek and Latine Tongues muſt always pleaſe,</l>
+                  <l>The Orientals you may learn with eaſe;</l>
+                  <l>They at firſt Entrance Difficult appear,</l>
+                  <l>Are only frightful in the Character;</l>
+                  <l>The <hi>Arabick</hi> requires Expenſive toil,</l>
+                  <l>But every thing is eaſy ſmooth'd with Oyl;</l>
+                  <l>Objects of Terrour I would ſtill forſake,</l>
+                  <l>Upon the Fancy they Impreſſion make;</l>
+                  <l>A Mother once by curious Eyes was led,</l>
+                  <l>To ſee a Malefactor how he Bled;</l>
+                  <l>
+                     <pb n="31" facs="tcp:45746:21"/>Was made a Spectacle upon the <hi>Greve,</hi>
+                  </l>
+                  <l>Did all things elſe, but could not Death deceive;</l>
+                  <l>Tinctur'd all o're with Blood of murder'd Men,</l>
+                  <l>And one Life ſuffer'd now for double Ten;</l>
+                  <l>He lay in Agonies ſtretch'd upon the Wheel,</l>
+                  <l>The Hangman with repeated Blows did reel:</l>
+                  <l>His Strong-knit Bones he gradually did break,</l>
+                  <l>The Villain roar'd, the tender Women ſqueak;</l>
+                  <l>Then he is mounted almoſt out of ſight,</l>
+                  <l>His Carcaſs doth the griping Vultures fright;</l>
+                  <l>But he's a Prey unto the ravenous Skies,</l>
+                  <l>And vomits out his Soul in Blaſphemies:</l>
+                  <l>Now they've revers'd the Sentence of that Place,</l>
+                  <l>And they diſpatch him with a <hi>Coup de Grace;</hi>
+                  </l>
+                  <l>This of her fancy took up all the Room,</l>
+                  <l>And made a Signature upon her Womb;</l>
+                  <l>She with fierce Pangs, ſhort Sighs, and melting Groans,</l>
+                  <l>Brought forth an Infant all with broken Bones.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Theſe Speculations Charmingly amuſe,</l>
+                  <l>But's hard to bring a Theory to uſe;</l>
+                  <l>Nay when 'tis try'd you always can't prevail,</l>
+                  <l>The Project in the firſt Attempt may fail,</l>
+                  <l>Theſe Wounds we do in our Experience feel,</l>
+                  <l>Like unto Learned <hi>Petties</hi> double Keel;</l>
+                  <l>The Toy in the firſt Voyage did not hit,</l>
+                  <l>The Waves broke in, and did the Veſſel ſplit;</l>
+                  <l>
+                     <hi>Drebell</hi> a wonderful invention found,</l>
+                  <l>He ſcorn'd all things 'bove Water or the Ground;</l>
+                  <l>No crack'd Projector ever was like him,</l>
+                  <l>He taught a Ship as doth a Fiſh to ſwim;</l>
+                  <l>Some at him laugh'd, whilſt keener Wits did rail,</l>
+                  <l>He ſwore his <hi>Hulk</hi> ſhould under Water Sail:</l>
+                  <l>In vain the ſtrange Experiment did try,</l>
+                  <l>As well on <hi>Ganza's</hi> he to Heaven might fly.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:45746:22"/>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>Theſe were the whimſies of Capricious Art,</l>
+                  <l>Which Men forg'd out until their Brains did ſmart;</l>
+                  <l>Thoughts too Exalted do our time devour,</l>
+                  <l>Vertue is Eaſy, and within our Power;</l>
+                  <l>I'de keep my mind in ſuch an equal Poiſe,</l>
+                  <l>As not to Grieve too much, nor to Rejoice:</l>
+                  <l>Afflictions ſhould not Conquer, tho' they tire,</l>
+                  <l>I'de be that Cloth that's whiten'd with the fire;</l>
+                  <l>And this the Ancients call'd their <hi>Asbeſton,</hi>
+                  </l>
+                  <l>And from the <hi>Amianthus</hi> now is ſpun;</l>
+                  <l>Tho' Flame doth all things into Aſhes turn,</l>
+                  <l>This ne're Conſumes let it the fierceſt Burn;</l>
+                  <l>The Earth with Cultivation I'de manure,</l>
+                  <l>And with <hi>Phlebotomy</hi> my Vines would cure:</l>
+                  <l>But my chief Care ſhould be my mind to Wed,</l>
+                  <l>Leaſt Rankneſs ſhould the worm of Conſcience breed;</l>
+                  <l>All our Luxuriant Vices we ſhould kill,</l>
+                  <l>We may be Good and Happy if we will;</l>
+                  <l>Since to deſert all Avenues are barr'd,</l>
+                  <l>Love Vertue <hi>(Damon)</hi> tho' without Reward;</l>
+                  <l>I with the Trees I Planted would grow Old,</l>
+                  <l>And when my Clay, like that I laid, proves Cold,</l>
+                  <l>Then a Tranſlation ſhould to me be given,</l>
+                  <l>I'de leave this Paradiſe and go to Heaven.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Ah! Give me Notice <hi>(Alcon)</hi> when you Dye,</l>
+                  <l>That I may fit my Wings and with you fly;</l>
+                  <l>All the Creation will inſipid grow,</l>
+                  <l>When I muſt Live with half a Soul below:</l>
+                  <l>What can precarious Being recommend,</l>
+                  <l>When Death divorceth me from ſuch a Friend?</l>
+                  <l>It doth not only ſhake the drooping Fruit,</l>
+                  <l>The Earth convulſeth and tears up the Root:</l>
+                  <l>Oh! let my Fibres with yours kindly twiſt.</l>
+                  <l>That when Death ſtrikes You, I can not be miſt;</l>
+                  <l>
+                     <pb n="33" facs="tcp:45746:22"/>But I Conjure you by theſe melting Tears,</l>
+                  <l>Live on, and rid me of theſe Penſive Fears.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alc.</speaker>
+               <lg>
+                  <l>The World's a Load, and is uneaſy grown,</l>
+                  <l>Yet for your ſake I'de live, tho' not my own:</l>
+                  <l>You raiſe a Tempeſt when I hear your Sighs,</l>
+                  <l>My grief muſt pay a tribute to your Eyes;</l>
+                  <l>It doth my Love and my Obedience ſhew,</l>
+                  <l>As leſſer Streams unto the Ocean flow:</l>
+                  <l>All Paſſions as rude Gueſts we will remove,</l>
+                  <l>We'll give Reception to nought elſe but Love.</l>
+                  <l>Anger a whip for its own fury makes,</l>
+                  <l>Envy is ſtung by its envenom'd Snakes;</l>
+                  <l>A magick Furnace doth her Entrails boil,</l>
+                  <l>Revenge o're-charg'd with Malice doth recoil:</l>
+                  <l>As when an <hi>Hawk</hi> doth at an <hi>Heron</hi> fly,</l>
+                  <l>Purſues him thro' a whole Campaign of Sky,</l>
+                  <l>He upwards turns, and doth his Hunter Kill,</l>
+                  <l>Swooping he ſplits himſelf upon the Bill;</l>
+                  <l>But now our different Paths we muſt purſue,</l>
+                  <l>And to theſe lovely Plains muſt bid adieu;</l>
+                  <l>And ſince we have the City now in view,</l>
+                  <l>May all the Bleſſings of kind Heaven light there,</l>
+                  <l>And may I happy be as I'm Sincere;</l>
+                  <l>May not their Feuds on them provoke thy Curſe;</l>
+                  <l>Hail native Earth! of Induſtry the Nurſe:</l>
+                  <l>Juſt ſo the <hi>Hybla</hi> Citizens do Thrive,</l>
+                  <l>The Slothful interferers they do drive</l>
+                  <l>With their ſharp Stings, out of the painful Hive,</l>
+                  <l>Where they a Labyrinth of Honey build,</l>
+                  <l>The Cells they with extracted Lackar Gild;</l>
+                  <l>The work grows warm by the Joint-ſtock of all,</l>
+                  <l>Beyond the <hi>L'oeuvre</hi> and <hi>Eſcurial;</hi>
+                  </l>
+                  <l>
+                     <pb n="34" facs="tcp:45746:23"/>'Tis like a Conclave with its Stanza's full,</l>
+                  <l>Where one amongſt the Purple Herd they cull,</l>
+                  <l>To be their Pope, who's exquiſitely Dull:</l>
+                  <l>With him they Lodge the fulminating Powder,</l>
+                  <l>Who beſt can Court them in a Golden Shower:</l>
+                  <l>Then puny Princes do that Thunder dread,</l>
+                  <l>And he commands their Wealth with Seals of Lead;</l>
+                  <l>Since in their Labour they reſemble Bees,</l>
+                  <l>Who from each Flower and Plant exact their Fees;</l>
+                  <l>Let them ſo far the Parallel purſue,</l>
+                  <l>As to be like them in their Sweetneſs too:</l>
+                  <l>Let no malign Event their Traffick bilk,</l>
+                  <l>Their Manners be as pleaſant as their Milk:</l>
+                  <l>As <hi>Codrus</hi> to prevent a dire miſ-hap,</l>
+                  <l>His Country ſav'd, and leap'd into the Gap;</l>
+                  <l>Them to Redeem his Life he did not prize,</l>
+                  <l>To ſtop their Breach I'de fall a Sacrifice.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45746:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
